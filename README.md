@@ -1,5 +1,5 @@
 # ChlorellaCycles
-App to control LED intensity over time
+App to control LED intensity over time for algae cultivation
 
 ## Repository Structure
 - **esp32_code**: Contains the ESP32 code for controlling the LED light.
