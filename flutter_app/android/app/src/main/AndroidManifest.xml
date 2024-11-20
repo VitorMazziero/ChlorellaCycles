@@ -3,7 +3,7 @@
     <application
         android:label="Chlorella Cycles"
         android:name="${applicationName}"
-        android:icon="@mipmap/algae_cycles">
+        android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
             android:exported="true"
