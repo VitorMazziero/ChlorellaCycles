@@ -29,5 +29,5 @@ App to control LED intensity over time for algae cultivation
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f72ca82e-28a9-4555-86c2-f377ca563e6b" alt="Circuit Diagram" width="600">
-  <p><b>Figure 1:</b> Circuit diagram for the project. The diagram illustrates the connections between components such as resistors, capacitors, transistors, and the power supply.</p>
+  <p><b>Figure 1:</b> Circuit diagram for the project. The diagram illustrates the connections between components and the power supply.</p>
 </div>
