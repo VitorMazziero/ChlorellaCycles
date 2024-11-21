@@ -26,4 +26,4 @@ App to control LED intensity over time for algae cultivation
 4. Pair your mobile device with the ESP32 (AlgaApp_BT) via Bluetooth.
 5. Monitor and control the light intensity using the app.
 
-![Imagem1](https://github.com/user-attachments/assets/926d59ef-1682-44f9-94c3-3f5aee400cc8)
+![Imagem1](https://github.com/user-attachments/assets/63fb2a19-45e2-45a7-b1b2-56fcb38e7fa1)
